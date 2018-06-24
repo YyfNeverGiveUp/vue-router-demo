@@ -1,6 +1,6 @@
 # vue-router-demo
 
-> 练习
+> vue(包含简单路由,嵌套路由,动态路由)
 
 ## Build Setup
 
