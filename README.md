@@ -1,11 +1,6 @@
 # vue-router-demo
-<<<<<<< HEAD
-> vue(包含简单路由,嵌套路由,动态路由)-测试stash
 
 > vue(包含简单路由,嵌套路由,动态路由)
->>>>>>> parent of 64561b6... Update README.md
-这是在demo1分支写的内容
-
 
 ## Build Setup
 
